@@ -1,0 +1,16 @@
+flask
+flask-cors
+python-dotenv
+pytesseract
+pdf2image
+google-generativeai
+Pillow
+werkzeug
+marshmallow
+openpyxl
+requests
+gunicorn
+chromadb
+sentence-transformers
+langchain
+langchain-community
